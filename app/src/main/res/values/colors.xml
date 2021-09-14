@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkPrimary">#455A64</color>
+    <color name="primary">#9E9E9E</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#212121</color>
+    <color name="accent">#9E9E9E</color>
+    <color name="buttonDay">#8BC34A</color>
+
+    <color name="darkPrimaryDay">#455A64</color>
+    <color name="primaryDay">#607D8B</color>
+</resources>
